@@ -15,10 +15,10 @@ En general los mamíferos marinos son animales que viven, se reproducen y pasan 
    * ![Oso polar](imágenes/oso_polar.jpeg)  
 
 ### *Por otro lado, aniamles que NO son mamíferos marinos son (~mamífero marino~)*:
- *El pinguino emperador: _Aptenodytes forsteri_.
- *Tortuga verde marina: _Chelonia mydas_.
+ * El pinguino emperador: _Aptenodytes forsteri_.
+ * Tortuga verde marina: _Chelonia mydas_.
 
-##Definiendo a los mamíferos marinos
+## Definiendo a los mamíferos marinos
 Viendoe estos ejemplo podemos identificar ciertas características compartidas de los mamíferos marinos:
 1. ¿Cómo respiran?
     1.  Respiran aire por tanto tienen pulmones y no branquias como los peces.
